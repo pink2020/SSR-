@@ -2,6 +2,10 @@
 
 这是一个跨平台（支持Windows MacOS Linux系统）的`ShadowsocksR`客户端桌面应用，它功能丰富，支持windows版大部分功能，更有更多人性化功能。它是开源的，它来源于开源，回馈以开源。
 
+## 客户端下载
+
+[下载](https://github.com/erguotou520/electron-ssr/releases)
+
 ## 功能特色
 
 - 支持手动添加配置
